@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 18 04:29:30 2019
-
-@author: TamV3E11576
-"""
-
 import numpy as np
 import cv2
 from copy import deepcopy
